@@ -1,4 +1,5 @@
-## Hi there 👋
+**Hi I am Vaishnavi Poojary**
+**Aspiring Data Analyst**
 
 <!--
 **vaishnavipoojary2202/vaishnavipoojary2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
