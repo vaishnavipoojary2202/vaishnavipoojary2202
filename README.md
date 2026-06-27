@@ -5,24 +5,24 @@
 
 </div>
 
-<h1 align="center">Vaishnavi here 👩‍💻 !</h1>
+<!--<h1 align="center">Vaishnavi here 👩‍💻 !</h1>
 
-<h3 align="center">Hey👋, I'm <b>Vaishnavi Poojary</b></h3>
+<h3 align="center">Hey👋, I'm <b>Vaishnavi Poojary</b></h3>-->
 
 <p align="center">
   Vibing to clean code 🎧 | Building real-world projects 🚀 | Always learning ✨
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/yourinstagram/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vaishnavi0222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vaishnavipoojary1109@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/vaishnavi_22_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ <!-- <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>-->
 </p>
-
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet" alt="profile views"/>
-</p>
+</p>-->
 
 ---
 
@@ -94,7 +94,7 @@ Focus:     Data Science | Machine Learning | Analytics | Graphics
 ### ☕ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
+  <a href="https://www.buymeacoffee.com/vaishnavipoojary2202">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
 </p>
@@ -103,7 +103,7 @@ Focus:     Data Science | Machine Learning | Analytics | Graphics
 
 <div align="center">
 
-<!-- Snake contribution animation (set up via GitHub Actions, see notes below) -->
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" width="100%"/>
+<!-- Snake contribution animation (set up via GitHub Actions, see notes below) 
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" width="100%"/>-->
 
 </div>
