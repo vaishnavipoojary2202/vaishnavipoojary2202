@@ -1,7 +1,7 @@
+
 <div align="center">
 
-<!-- BANNER: replace this URL with your own banner image, or use a Canva-made one -->
-<img src="https://your-banner-image-url-here.png" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Vaishnavi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Python%20%2B%20SQL%20%2B%20Power%20BI%20%2B%20Tableau&descSize=18&descAlignY=55"/>
 
 </div>
 
