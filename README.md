@@ -1,9 +1,8 @@
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Vaishnavi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Python%20%2B%20SQL%20%2B%20Power%20BI%20%2B%20Tableau&descSize=18&descAlignY=55"/>
-
+  <img src="https://github.com/user-attachments/assets/71fcd62e-c6af-4e3b-8271-77df7f96546d" width="100%" alt="banner"/>
 </div>
+
 
 <!--<h1 align="center">Vaishnavi here 👩‍💻 !</h1>
 
