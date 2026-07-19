@@ -67,12 +67,6 @@ Focus:     Data Science | Machine Learning | Analytics | Graphics
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavipoojary2202&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaishnavipoojary2202&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavipoojary2202&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavipoojary2202&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
