@@ -62,10 +62,10 @@ Focus:     Data Science | Machine Learning | Analytics | Graphics
 
 ### ⚡ GitHub Stats
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaishnavipoojary2202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavipoojary2202&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
-</p>
+</p>-->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavipoojary2202&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
