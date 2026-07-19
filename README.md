@@ -76,9 +76,9 @@ Focus:     Data Science | Machine Learning | Analytics | Graphics
 ### 📌 Top Contributed Repos
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishnavipoojary2202&repo=KredAlert-credit-card-fraud-detection&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishnavipoojary2202&repo=customer-segmentation-rfm-analysis&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishnavipoojary2202&repo=walmart-sales-dashboard&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishnavipoojary2202&repo=KredAlert-credit-card-fraud-detection&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishnavipoojary2202&repo=customer-segmentation-rfm-analysis&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishnavipoojary2202&repo=walmart-sales-dashboard&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
