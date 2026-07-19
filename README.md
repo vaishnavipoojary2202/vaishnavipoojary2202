@@ -82,7 +82,51 @@ Focus:     Data Science | Machine Learning | Analytics | Graphics
   <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=vaishnavipoojary2202&repo=walmart-sales-dashboard&theme=tokyonight&hide_border=true" width="48%" />
 
 </p>
+<table>
+<tr>
 
+<td width="50%">
+
+### 📊 Customer Segmentation
+
+> Customer segmentation using RFM Analysis.
+
+<a href="https://github.com/vaishnavipoojary2202/customer-segmentation-rfm-analysis">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💳 KredAlert
+
+> Credit Card Fraud Detection using Machine Learning.
+
+<a href="https://github.com/vaishnavipoojary2202/KredAlert-credit-card-fraud-detection">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📈 Walmart Sales Dashboard
+
+> Interactive Power BI dashboard.
+
+<a href="https://github.com/vaishnavipoojary2202/walmart-sales-dashboard">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+</table>
 ---
 
 ### 💬 Random Dev Quote
