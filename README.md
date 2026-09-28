@@ -98,6 +98,17 @@ Focus:     Data Science | Machine Learning | Analytics | Graphics
 
 <td width="50%">
 
+### Malicious URL Detection
+
+> Customer segmentation using RFM Analysis.
+
+<a href="https://github.com/vaishnavipoojary2202/malicious-url-detection">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+<td width="50%">
+
 ### 💳 KredAlert
 
 > Credit Card Fraud Detection using Machine Learning.
