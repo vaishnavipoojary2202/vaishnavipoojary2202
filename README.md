@@ -107,6 +107,9 @@ Focus:     Data Science | Machine Learning | Analytics | Graphics
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 💳 KredAlert
@@ -119,9 +122,6 @@ Focus:     Data Science | Machine Learning | Analytics | Graphics
 
 </td>
 
-</tr>
-
-<tr>
 
 <td width="50%">
 
