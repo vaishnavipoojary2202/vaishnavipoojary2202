@@ -136,9 +136,22 @@ Focus:     Data Science | Machine Learning | Analytics | Graphics
 </td>
 
 </tr>
+
+<tr>
+<td width="50%">
+
+### 📈 Ecommerce customer behavior analytics
+
+> Interactive Power BI dashboard.
+
+<a href="https://github.com/vaishnavipoojary2202/ecommerce-customer-behavior-analytics">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
 </table>
-
-
 ---
 
 ### 💬 Random Dev Quote
