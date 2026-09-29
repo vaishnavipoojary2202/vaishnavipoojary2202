@@ -100,7 +100,7 @@ Focus:     Data Science | Machine Learning | Analytics | Graphics
 
 ### Malicious URL Detection
 
-> Customer segmentation using RFM Analysis.
+> Machine learning–based malicious URL detection using structural URL features and character-level TF-IDF with XGBoost and Streamlit.
 
 <a href="https://github.com/vaishnavipoojary2202/malicious-url-detection">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
@@ -142,7 +142,7 @@ Focus:     Data Science | Machine Learning | Analytics | Graphics
 
 ### 📈 Ecommerce customer behavior analytics
 
-> Interactive Power BI dashboard.
+> Big Data e-commerce analytics using PySpark, enhanced RFM, K-Means customer segmentation, and interactive dashboards.
 
 <a href="https://github.com/vaishnavipoojary2202/ecommerce-customer-behavior-analytics">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
